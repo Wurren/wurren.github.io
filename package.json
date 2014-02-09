@@ -2,8 +2,12 @@
 	"name": "villainyhq",
 	"version": "0.1.0",
 	"devDependencies": {
-		"grunt": "~0.4.2",
-		"grunt-contrib": "*",
-		"grunt-jekyll" : "*"
+		"gulp-less": "~1.2.0",
+		"gulp-minify-css": "~0.2.0",
+		"gulp-notify": "~0.3.5-0",
+		"gulp": "~3.5.0",
+		"gulp-uglify": "~0.2.0",
+		"gulp-concat": "~2.1.7",
+		"gulp-rename": "~0.2.2"
 	}
 }
