@@ -6,14 +6,14 @@ pygments:         true
 permalink:        /blog/:categories/:year/:month/:day/:title/
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Villainy
+tagline:          'Online nonsense of Warren Haskins' 
+description:      'Front and Back end web developer'
+url:              http://villainyhq.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Warren Haskins'
+  url:            https://twitter.com/warrenhaskins
 
 paginate:         1
 paginate_path: 	  "blog/page:num"
@@ -22,6 +22,6 @@ paginate_path: 	  "blog/page:num"
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/wurren/wurren.github.io
 
 exclude: 		  ['gruntfile.js', 'package.json', 'LICENSE.md', 'README.md', 'less', 'src']
