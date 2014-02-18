@@ -1,10 +1,10 @@
 $(function(){
 
-	$.fireflies({
-		bugs : 50,
-		color : '#666',
-		speed : 1000
-	});
+	// $.fireflies({
+	// 	bugs : 50,
+	// 	color : '#666',
+	// 	speed : 1000
+	// });
 
 	var sizer = function() {
 		var wh = $(window).height() - 100;
